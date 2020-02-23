@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Code\Railgun\Railgun\window.h(24,12): warning C4150: deletion of pointer to incomplete type 'SDL_Window'; no destructor called
+C:\SDL2-2.0.10\include\SDL_video.h(90): message : see declaration of 'SDL_Window'
+  Railgun.vcxproj -> E:\Code\Railgun\Debug\Railgun.exe
